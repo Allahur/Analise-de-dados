@@ -1,4 +1,4 @@
-# Baixe o arquivo clientes.csv 
+# Nota: Baixe o arquivo clientes.csv 
 # Nota: Utilize o Jupyter ou o Google Colab.
 # Nota: Apenas fictício.
 
