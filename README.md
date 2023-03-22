@@ -1,4 +1,4 @@
 # Analise de Dados em Python
-Neste repositório terá conteúdo sobre análise de dados com a linguagem de programação, Python.
+Neste repositório terá um projetinho para Análise de Dados.
 
 #### Nota: utilize Google Colab ou Jupyter.
